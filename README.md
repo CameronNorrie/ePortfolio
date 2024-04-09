@@ -11,15 +11,13 @@ Package Name: eStoreSearch
 
 Files Included: EStoreSearch.java, Book.java, Electronics.java, Product.java, App.java, GUI.java
 
-Junit Test Files: none required for this assignment
-
 Function: GUI.java creates a GUI and implements the search and add functions from eStoreSearch, this function 
 (GUI.java) is called on in app.java and displayed.
 
 Test Plan:
 
 Book.java, Electronics.java, Product.java
-- All of the testing for these files have already been completed in previous assignments JUnit tests
+- All of the testing for these files have been completed in JUnit tests
 
 App.java
 - make sure that this file calls GUI.java properly
